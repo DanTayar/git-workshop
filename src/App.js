@@ -7,13 +7,15 @@ function App() {
     <div className="App">
       <header className="App-header">
 
-      <div> HEllO its Dave </div>
+        <div> HEllO its Dave </div>
 
         <h1> Dan is great </h1>
+
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Edit <code>src/App.js</code> and save to reload
         </p>
+        <p>nik is the best blah blah blah</p>
         <a
           className="App-link"
           href="https://reactjs.org"
