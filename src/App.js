@@ -12,11 +12,11 @@ function App() {
         <h1> Dan is great </h1>
 
         <img src={logo} className="App-logo" alt="logo" />
-        <p>the best man on earth is Dave</p>
+        <p>THE BEST MAN ON EARTH IS DAVE</p>
         <p>
           Edit <code>src/App.js</code> and save to reload
         </p>
-    
+
         <p>nik is the best NO DOUBT</p>
         <p> Dan is one of the best devs </p>
 
