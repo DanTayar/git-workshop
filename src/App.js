@@ -13,7 +13,8 @@ function App() {
 
 
         <img src={logo} className="App-logo" alt="logo" />
-        <p>the best man on earth is Dave</p>
+        <p>the best man on earth is dave</p>
+        <p>the best man on earth is Raphael</p>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
