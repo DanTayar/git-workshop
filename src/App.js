@@ -12,7 +12,8 @@ function App() {
         <h1> Dan is great </h1>
 
         <img src={logo} className="App-logo" alt="logo" />
-        <p>THE BEST MAN ON EARTH IS DAVE</p>
+        <p>the best man on earth is dave</p>
+        <p>the best man on earth is Raphael</p>
         <p>
           Edit <code>src/App.js</code> and save to reload
         </p>
