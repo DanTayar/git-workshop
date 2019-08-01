@@ -7,10 +7,13 @@ function App() {
     <div className="App">
       <header className="App-header">
 
-      <div> HEllO its Dave </div>
+        <div> HEllO its Dave </div>
 
         <h1> Dan is great </h1>
+
+
         <img src={logo} className="App-logo" alt="logo" />
+        <p>the best man on earth is Dave</p>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
